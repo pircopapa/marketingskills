@@ -45,6 +45,8 @@ Awareness → Interest → Consideration → Intent → Purchase → Loyalty
 
 Each stage requires different messaging and tactics.
 
+> **Personal note**: I find it helpful to also think about a "Retention" stage after Loyalty — getting repeat purchases is often cheaper than acquiring new customers.
+
 ### 5. Brand Positioning
 
 How your brand occupies a distinct place in the mind of your target customer relative to competitors.
@@ -75,6 +77,7 @@ How your brand occupies a distinct place in the mind of your target customer rel
 - [Seth Godin's Blog](https://seths.blog)
 - Book: *This Is Marketing* by Seth Godin
 - Book: *Positioning* by Al Ries & Jack Trout
+- Book: *Building a StoryBrand* by Donald Miller — really clicked for me on value propositions
 
 ## Related Skills
 
