@@ -56,6 +56,8 @@ skills/
 }
 ```
 
+> **Personal note:** I'm mainly using this fork to experiment with the `email-marketing` and `copywriting` categories for a side project. Most of the other categories are upstream concerns — I'll try to keep this in sync with coreyhaines31/marketingskills periodically but no guarantees.
+
 ## Contributing
 
 See the root [CONTRIBUTING.md](../CONTRIBUTING.md) for general guidelines.
