@@ -22,6 +22,8 @@ Understanding the fundamental principles that drive effective marketing strategi
 - **Place**: Distribution channels and where customers find you
 - **Promotion**: How you communicate your value proposition
 
+> **Personal note**: Some modern frameworks expand this to the 7 Ps by adding People, Process, and Physical Evidence — more relevant for service-based businesses.
+
 ### 2. Target Audience & Buyer Personas
 
 Defining who your ideal customer is:
@@ -70,6 +72,7 @@ How your brand occupies a distinct place in the mind of your target customer rel
 2. Create a basic buyer persona for a hypothetical business
 3. Map a customer journey through the marketing funnel
 4. Conduct a SWOT analysis for a brand you admire
+5. Try rewriting a brand's tagline using the StoryBrand framework — good way to internalize positioning
 
 ## Resources
 
